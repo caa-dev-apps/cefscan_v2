@@ -1,0 +1,3 @@
+cefscan_v2 -r C:/_CEF_CEH_EXAMPLES_2013_VALIDATOR_ -k MISSION -l 10
+
+pause
