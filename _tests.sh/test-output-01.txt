@@ -1,5 +1,6 @@
 
-C:\work.dev.go\src\github.com\caa-dev-apps\cefscan_v2\_tests.sh>cefscan_v2 -r C:/_CEF_CEH_EXAMPLES_2013_VALIDATOR_ -k MISSION -l 10 
+> cefscan_v2 -r C:/_CEF_CEH_EXAMPLES_2013_VALIDATOR_ -k MISSION -l 10 
+
 MISSION: 
 ---------
 C:\_CEF_CEH_EXAMPLES_2013_VALIDATOR_\CEF\EDI\#00\C3_CP_EDI_EGD__20111009_V01.cef.gz
@@ -54,7 +55,3 @@ END_META                       [MISSION]                                        
  
 
 
-
-
-C:\work.dev.go\src\github.com\caa-dev-apps\cefscan_v2\_tests.sh>pause
-Press any key to continue . . . 
